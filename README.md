@@ -10,7 +10,9 @@ Deng, Y., Zhang, Y., and Shi, X. 2023. "Feasibility of determining asphalt pavem
 Please include the citation in any publications, presentations, or reports that result from the use of this repository. It helps acknowledge the original work and enables proper attribution to the authors.
 
 # Usage Instructions
-Codes in this repository are for PSO and MSPSO described in the publication. Additional functions for the complete backcalculation scheme include: 1) Kriging model constructed with finite element model results; 2) user-defined function calculating differences between the pavement responses predicted by the constrcuted Kriging model and measured from the field testing. 
+Codes in this repository are for PSO and MSPSO described in the publication. Additional files for the complete backcalculation scheme include:
+1) Kriging model constructed with finite element model results;
+2) User-defined function calculating differences between the pavement responses predicted by the constrcuted Kriging model and measured from the field testing. 
 
 # Support and Issues
 If you encounter any issues, have questions, or need further assistance regarding the code or materials in this repository, please feel free to open an issue or contact the authors directly.
