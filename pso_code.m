@@ -40,8 +40,8 @@ end
 
 for k=1:1:N
     for i=1:1:m
-        v(i,:)=(0.9-(0.9-0.4)/N*k)*v(i,:)+c1*rand*(pi(i,:)-x(i,:))+c2*rand*(pg(1,:)-x(i,:));
-        x(i,:)=x(i,:)+v(i,:)*((1-k/N*0.5));
+        v(i,:)=w*v(i,:)+c1*rand*(pi(i,:)-x(i,:))+c2*rand*(pg(1,:)-x(i,:));
+        x(i,:)=x(i,:)+v(i,:);
         for jj=1:D
             if x(i,jj) > upb(jj)
                 x(i,jj) = upb(jj);
