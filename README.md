@@ -5,7 +5,7 @@ Thank you for your interest in this repository. This README file provides import
 
 If you use any part of the code or materials in this repository for your research or project, we kindly request that you cite the corresponding paper:
 
-Deng, Y., Zhang, Y., and Shi, X. 2023. "Feasibility of determining asphalt pavement condition from falling weight deflectometer test and finite element model updating." Philosophical Transactions of the Royal Society A. DOI: 10.1098/rsta.2022.0168. 
+Deng Y, Zhang Y, Shi X. 2023 Feasibility of determining asphalt pavement condition from falling weight deflectometer test and finite element model updating.Phil. Trans. R. Soc. A 381: 20220168. https://doi.org/10.1098/rsta.2022.0168. 
 
 Please include the citation in any publications, presentations, or reports that result from the use of this repository. It helps acknowledge the original work and enables proper attribution to the authors.
 
